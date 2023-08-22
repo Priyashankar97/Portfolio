@@ -1,0 +1,16 @@
+/*------ Hero section--------*/
+.hero {
+  background-image: url(./images/christian-wiediger-WkfDrhxDMC8-unsplash.jpg);
+  background-size: cover;
+  height: 650px;
+}
+.heading {
+  font-size: 80px;
+  padding-top: 150px;
+}
+.course {
+  font-size: 30px;
+}  
+.sites .icons {
+  font-size: 30px; 
+}
