@@ -1,6 +1,10 @@
+.navbar {
+    color: black;
+}
+
 /*------ Hero section--------*/
 .hero {
-  background-image: url(./images/christian-wiediger-WkfDrhxDMC8-unsplash.jpg);
+  background-image: url("./images/christian-wiediger-WkfDrhxDMC8-unsplash.jpg");
   background-size: cover;
   height: 650px;
 }
@@ -53,3 +57,22 @@
 .card {
   margin-top: 30px;
 }  
+
+/*------- contact info -------*/
+.sec-title {
+ 
+  font-weight: 500;
+  font-size: 40px;
+}
+.con-title {
+  font-weight:150px;
+  font-size: 25px;
+}
+.con-text {
+  font-size: 15px;
+}
+
+.link {
+  right: 140px;
+}
+
